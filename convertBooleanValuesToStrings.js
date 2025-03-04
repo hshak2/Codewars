@@ -4,5 +4,5 @@ function boolToWord( bool ){
       return 'Yes'
     }else if(bool === false){
       return 'No'
-    }
+    };
   }
