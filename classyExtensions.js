@@ -4,7 +4,7 @@ class Cat extends Animal {
     }
       speak(){
         return `${this.name} meows.`
-      }
+      };
     }
     const c = new Cat('Mr Whiskers')
     c.speak();
