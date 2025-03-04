@@ -3,7 +3,7 @@ class Person {
       this.name = name
       this.age = age
     }
-    get info(){
+    get info(){ //look up get info() function
       return `${this.name}s age is ${this.age}`
-    }
+    } 
   }
