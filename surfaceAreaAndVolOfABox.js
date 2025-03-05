@@ -8,4 +8,3 @@ function getSize(width, height, depth){
       let vol = width * height * depth
       return [SA, vol]
   }
-  
