@@ -7,3 +7,4 @@ function isPangram(string){
     return false
   }
 }
+//additional comment since i didn't have time to do a codewars today but i will do two tomorrow
